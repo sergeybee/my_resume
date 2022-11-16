@@ -1,2 +1,2 @@
-# my_resume
-Моё резюме
+# Pet projects
+## Моё резюме
