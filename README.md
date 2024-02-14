@@ -67,8 +67,15 @@
 ### 🛠 Ключевые навыки:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&logo=PostgreSQL&logoColor=ffdd54)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&logo=PostgreSQL&logoColor=ffdd54)
+![SqlAlchemy](https://img.shields.io/badge/SqlAlchemy-3670A0?style=for-the-badge&logo=SqlAlchemy&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-3670A0?style=for-the-badge&logo=FastAPI&logoColor=ffdd54)
+![Aiogram3](https://img.shields.io/badge/Aiogram3-3670A0?style=for-the-badge&logo=Aiogram&logoColor=ffdd54)
+![PgAdmin](https://img.shields.io/badge/PgAdmin-3670A0?style=for-the-badge&logo=PgAdmin&logoColor=ffdd54)
+![Postman](https://img.shields.io/badge/Postman-3670A0?style=for-the-badge&logo=Postman&logoColor=ffdd54)
+![Atlassian Jira](https://img.shields.io/badge/Atlassian%20Jira-3670A0?style=for-the-badge&logo=Atlassian&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-3670A0?style=for-the-badge&logo=Windows&logoColor=ffdd54)
 
 #### 🤝 Soft skills:
 * Обучаемость
@@ -80,14 +87,18 @@
 
 #### Сейчас изучаю:
 * Pytest
+* PostgreSQL
+* FastAPI
+* Docker
 
 #### Запланированные курсы:
-* Postgresql
-* SQLite
-* Django REST
+* Allure
 
 #### Сейчас читаю:
 * Компьютерные сети. Принципы, технологии, протоколы (Виктор и Наталья Олифер)
+* Как тестируют в Гугл (Джеймс Уиттакер и компания)
+* Тестирование dot com (Роман Савин)
+* Тестирование программного обеспечения. Базовый курс (Святослав Куликов)
 
 ##
 ### Высшее образование:
